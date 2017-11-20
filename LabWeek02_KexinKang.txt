@@ -1,0 +1,5 @@
+CS 2300 Week 02 HandIn Name: ___Kexin Kang___
+1.1. (5) What is the number value of MAX_VALUE? _________ approximately 1.79E+308_______________
+1.2. (5) What is the Parent Class of class Integer ? __________Number_____________
+2.1. (5) In part 8, What number did you get for total? ____290___________
+3. (10) Attach the printout of the class you created to this page.
